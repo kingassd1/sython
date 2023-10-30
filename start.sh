@@ -1,1 +1,1 @@
-python3 -m Tepthon
+python3 -m zthon
